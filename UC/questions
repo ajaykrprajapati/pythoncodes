@@ -1,0 +1,47 @@
+1 q : product of the array except itself for every element
+2 q : find a pair whose sum is equal to a target value.
+3 q : queue implementation using linked list and array both. 
+
+Log2 N vs Log3 N which is smaller. If log3 N is smaller, why can’t we use log3 N
+What is the complexity of concatenating a string object  
+Find longest substring without repeating characters  
+
+Print all anagrams together in array of strings
+Expected time complexity should be O(MN).
+Where M is length of an array and N is length of each word.
+Ex- { cat,dog, act,god,tac}
+O/p- [cat, act, tac] [dog,god]
+
+Why a^0=1? Proof 
+
+N Queen Problem
+Subset Sum Problem
+Implement Music Shuffle Functionality
+Kth Largest Element (Heaps)  
+
+Round 1
+
+1. Check if one string is substring of another
+2. Given a directed graph  
+Answer Question
+Round 2
+
+1. Architecture of my current project
+2. Remove a key from a json object recursively  
+Answer Question
+Round 3
+
+1. Design a key value store library - get, put, delete, list keys functionality  
+
+
+Two problems on tree in which one of them is this http://www.geeksforgeeks.org/root-to-leaf-path-sum-equal-to-a-given-number/
+
+0 Answers
+One problem on greedy approach logic is similar to below link just statement is different http://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/
+
+0 Answers
+why we use static keyword when calling main in java? write code to use static function?
+
+Give a Binay Tree, print the shortest path between two given nodes.
+
+How to find a given element in a rotated sorted array?
