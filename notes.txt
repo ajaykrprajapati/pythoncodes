@@ -1,0 +1,175 @@
+Ireland:
+++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Notes:
+
+Maggi , ready to make food
+Achaar
+Staionary
+Water proof clothes, shoes
+
+
+Part time job:
+PPS Card
+
+Documents: Before Reaching:
+Medical insurance
+
+After Reaching:
+1. Student ID card(discount on food, Recharge n buy stuffs in college) 
+2. Bank account: (Letter from College, Photo Identity card(Passport),Letter of Accommodation from landlord ) 
+3. Irish Residece permit(after landing u get stamp) and in 3 month u have to convert it into stamp 2: Document required: (1. Token of appointment, Passport, Letter from college, Address proof(either bank account or letter of accommodation), Medical Insurance, pay 300 Euros ).. after 10-15 days, collect IRP from office 
+4. PPS: apply on link:  Document required: (1.  appointment letter, Passport, Letter from college, Address proof(either bank account or letter of accommodation)
+5. Leap card
+  Documents(https://www.youtube.com/watch?v=sBJ8_m4SwHQ)
+1. Student ID Card
+2. Bank Account 
+3. IRP (Irish Residence Permit) Card 
+    * Link to the site - https://icot.ie/how-to-get-your-irish...
+    * Cork IRP Office - https://www.google.com/maps/place/Ang...
+
+4. PPS (Personal Public Service) Card
+    * More info about PPS - https://www.gov.ie/en/service/12e6de-...
+    * PPS Appointment - https://services.mywelfare.ie/en/topi...
+
+5. Student Leap Card - https://www.studentleapcard.ie/
+
+
+Rent: rent.ie daft.ie
+
+use this code to get 10% off for all booking from spotahome.com. (All types of long term Accommodations are Available)
+Code:  INDIADUB001
+
+https://www.linkedin.com/jobs/search/?currentJobId=2298299617&f_CR=102713980&f_E=2%2C3%2C4&f_LF=f_AL&geoId=92000000&keywords=django&location=Worldwide
+https://www.linkedin.com/jobs/search/?currentJobId=2254817545&f_CR=101165590%2C101174742%2C105015875&f_E=1%2C2%2C3%2C4&f_LF=f_AL&geoId=92000000&keywords=django&location=Worldwide&start=50
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+Notes:
+
+Github SSH:
+33de02e43c913707fb98b4646873544e1de5ef8d
+
+ pip install mysql solve:
++++++++++++++++++++++++ 
+brew install mysql-client
+# mysql-client is not on the `PATH` by default
+export PATH="/usr/local/opt/mysql-client/bin:$PATH"
+# openssl is not on the link path by default
+export LIBRARY_PATH="$LIBRARY_PATH:/usr/local/opt/openssl/lib/"
+
+
+Pre-commit
++++++++++++++++++++++++++++++++++++++++++++++++++
+pip install pre-commit 
+pre-commit install
+
+https://black.readthedocs.io/en/stable/editor_integration.html
+https://pre-commit.com/
+https://plugins.jetbrains.com/plugin/11563-flake8-support
+
+
+
+ELK:
++++++++++++++++++++++++++++++++
+Ubuntu ELK setup
+
+Digital ocean reference for installing java
+ 27  java -version
+   28  sudo apt install default-jre
+   29  sudo apt install openjdk-8-jdk
+   30  java -v
+   31  java -version
+   32  sudo update-alternatives --config java
+   33  java -version
+   34  sudo vi /etc/environment 
+   35  source /etc/environment
+   36  echo $JAVA_HOME
+   37  sudo apt install elasticsearch
+   38  sudo nano /etc/elasticsearch/elasticsearch.yml
+   39  sudo vi /etc/elasticsearch/elasticsearch.yml
+   40  sudo systemctl start elasticsearch
+   41  sudo systemctl enable elasticsearch
+   42  curl -X GET "localhost:9200"
+   43  sudo apt install kibana
+   44  sudo systemctl enable kibana
+   45  sudo systemctl start kibana
+   46  sudo apt update
+   47  sudo apt install nginx
+   48  sudo ufw app list
+   49  sudo ufw status
+   50  systemctl status nginx
+   51  ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
+   52  curl -4 icanhazip.com
+   53  exit
+   54  history
+   55  sudo apt install logstash
+   56  sudo systemctl start logstash
+   57  sudo systemctl enable logstash
+   58  screen -S logstash_storeit
+   59  exit
+   60  history
+ubuntu@haptik-labs-elk:~$ 
+
+
+Delete branch:
+++++++++++++++++++++++++++++++++ 
+git branch -d feature/filter
+git push origin --delete feature/filter
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+Interview:
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp
+https://www.pramp.com/dashboard#/
+Arian Seyedi7:54 PM
+Implemented API integration with various enterprise software such as Whatsapp etc.
+Arian Seyedi7:55 PM
+https://www.coursera.org/learn/cs-tech-interview/resources/2Y3Nx
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Aivai
+
+Interview Process: A] Online: 1. Hackerrank Test (Solve at least 2 problems)  B] Onsite: 2. Round 1 (DS/Algo) 3. Round 2 (DBMS + DS/Algo + Design Patterns) 4. System Design Round  C] HR Round  DS/Algo Questions: - unique-paths-in-a-grid-with-obstacles - next-smaller-element - median-of-stream-of-integers-running-integers - lru-cache-implementation - print-nodes-top-view-binary-tree - find-first-and-last-positions-of-an-element-in-a-sorted-array - search-an-element-in-a-sorted-and-pivoted-array  DBMS Questions: - acid-properties-in-dbms - indexing-in-databases - transaction-isolation-levels-dbms  System Design: - caching-techniques - load-balancers - CAP-theorem - sharding-techniques - microservices-architecture
+
+
+
+1. Current projects
+2. Datalake/ETL design
+3. Pub-sub mechanism.
+4. Redshift ,S3
+5. The next generation technology.  
+SQL qureies
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
